@@ -1,0 +1,3 @@
+,retrieval median (ms),LLM median (ms),end-to-end (ms),re-ranking share of end-to-end
+Pipeline 1 (baseline),10.95,4516.120915999636,4527.070915999636,-
+Pipeline 2 (re-ranked),168.99,4248.3598329126835,4417.349832912683,3.6%

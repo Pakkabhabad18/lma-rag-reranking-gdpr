@@ -1,0 +1,11 @@
+# secrets and local environment
+.env
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# course material and personal notes, not part of the submission
+rag_tutorial.ipynb
+RAG_LMA_Assignment_v1.pdf
+report_notes.md

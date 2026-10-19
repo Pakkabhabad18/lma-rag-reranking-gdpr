@@ -1,0 +1,6 @@
+,mean (ms),median (ms),p95 (ms)
+query embedding,11.67,10.91,15.74
+FAISS search (434 chunks),0.05,0.04,0.06
+cross-encoder (10 pairs),163.69,157.88,205.44
+Pipeline 1 retrieval total,11.72,10.95,15.87
+Pipeline 2 retrieval total,175.41,168.99,220.91

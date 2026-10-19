@@ -1,0 +1,542 @@
+{
+  "K1": {
+    "query": "Can I make a company delete everything it knows about me?",
+    "p1_context": [
+      "Recital (66)",
+      "Article 33 - Notification of a personal data breach to the supervisory authority",
+      "Recital (26)"
+    ],
+    "p2_context": [
+      "Recital (65)",
+      "Recital (66)",
+      "Article 17 - Right to erasure (\u2018right to be forgotten\u2019)"
+    ],
+    "answer1": "Based on the provided passages, there is no mention of a general right to make a company delete *everything* it knows about you. \n\nHowever, Recital (66) discusses a \"right to erasure\" (or \"right to be forgotten\") in the online environment. If a controller has made your personal data public, they are obliged to take reasonable steps\u2014considering available technology and means\u2014to inform other controllers processing that data to erase any links to, or copies or replications of, those personal data upon your request (Recital 66). \n\nFurthermore, data protection principles do not apply to anonymous information, as it does not relate to an identified or identifiable natural person (Recital 26). \n\nThe context is missing specific conditions, exceptions, or full procedural scope regarding how or if you can compel a company to delete all types of personal data.",
+    "answer2": "You can obtain the erasure of your personal data without undue delay, but only if specific grounds apply under Article 17(1). These grounds include:\n\n* The data is no longer necessary for its original collection/processing purposes [Article 17(1)(a), Recital 65].\n* You withdraw your consent and no other legal ground for processing exists [Article 17(1)(b), Recital 65].\n* You object to the processing (pursuant to Article 21(1) or 21(2)) and there are no overriding legitimate grounds [Article 17(1)(c), Recital 65].\n* The data was unlawfully processed [Article 17(1)(d), Recital 65].\n* Erasure is required to comply with a Union or Member State legal obligation [Article 17(1)(e), Recital 65].\n* The data was collected regarding the offer of information society services to a child [Article 17(1)(f), Recital 65].\n\nThe provided passages do not state that you can force a company to delete *everything* unconditionally without one of these grounds applying.",
+    "llm": "gemini-3.5-flash",
+    "rank_table": [
+      {
+        "chunk_id": 81,
+        "section": "Recital (66)",
+        "bi_rank": 1,
+        "ce_rank": 2,
+        "bi_score": 0.39474624395370483,
+        "ce_score": -9.944808006286621,
+        "shift": -1
+      },
+      {
+        "chunk_id": 291,
+        "section": "Article 33 - Notification of a personal data breach to the supervisory authority",
+        "bi_rank": 2,
+        "ce_rank": 6,
+        "bi_score": 0.34340357780456543,
+        "ce_score": -10.795637130737305,
+        "shift": -4
+      },
+      {
+        "chunk_id": 30,
+        "section": "Recital (26)",
+        "bi_rank": 3,
+        "ce_rank": 8,
+        "bi_score": 0.34214484691619873,
+        "ce_score": -11.000415802001953,
+        "shift": -5
+      },
+      {
+        "chunk_id": 257,
+        "section": "Article 17 - Right to erasure (\u2018right to be forgotten\u2019)",
+        "bi_rank": 4,
+        "ce_rank": 3,
+        "bi_score": 0.3393007218837738,
+        "ce_score": -10.53812313079834,
+        "shift": 1
+      },
+      {
+        "chunk_id": 45,
+        "section": "Recital (39)",
+        "bi_rank": 5,
+        "ce_rank": 7,
+        "bi_score": 0.3378135561943054,
+        "ce_score": -10.95439338684082,
+        "shift": -2
+      },
+      {
+        "chunk_id": 46,
+        "section": "Recital (39)",
+        "bi_rank": 6,
+        "ce_rank": 4,
+        "bi_score": 0.3366393744945526,
+        "ce_score": -10.701114654541016,
+        "shift": 2
+      },
+      {
+        "chunk_id": 111,
+        "section": "Recital (87)",
+        "bi_rank": 7,
+        "ce_rank": 9,
+        "bi_score": 0.3338085412979126,
+        "ce_score": -11.066878318786621,
+        "shift": -2
+      },
+      {
+        "chunk_id": 109,
+        "section": "Recital (85)",
+        "bi_rank": 8,
+        "ce_rank": 5,
+        "bi_score": 0.33187335729599,
+        "ce_score": -10.714218139648438,
+        "shift": 3
+      },
+      {
+        "chunk_id": 34,
+        "section": "Recital (29)",
+        "bi_rank": 9,
+        "ce_rank": 10,
+        "bi_score": 0.3308652937412262,
+        "ce_score": -11.253588676452637,
+        "shift": -1
+      },
+      {
+        "chunk_id": 79,
+        "section": "Recital (65)",
+        "bi_rank": 10,
+        "ce_rank": 1,
+        "bi_score": 0.3273096978664398,
+        "ce_score": -9.30815315246582,
+        "shift": 9
+      }
+    ]
+  },
+  "K3": {
+    "query": "What is the maximum penalty a company can get for violating the regulation?",
+    "p1_context": [
+      "Article 84 - Penalties",
+      "Article 83 - General conditions for imposing administrative fines",
+      "Recital (148)"
+    ],
+    "p2_context": [
+      "Recital (149)",
+      "Recital (148)",
+      "Recital (150)"
+    ],
+    "answer1": "Based on the provided context, the maximum penalty depends on the specific violation and whether administrative fines or other penalties apply:\n\n1. **Administrative Fines:** \n   * For infringements under Article 83(4), fines can be up to **10 000 000 EUR**, or up to **2% of the total worldwide annual turnover** of the preceding financial year for an undertaking, whichever is higher (Article 83(4)).\n   * For infringements under Article 83(5), fines can be up to **20 000 000 EUR**, or up to **4% of the total worldwide annual turnover** of the preceding financial year, whichever is higher (Article 83(5)). \n\n2. **Other Penalties:** Member States must set rules for other effective, proportionate, and dissuasive penalties, particularly for infringements not subject to administrative fines under Article 83 (Article 84(1)).\n\n*Note:* The context cuts off the full list of infringements for Article 83(5).",
+    "answer2": "Based on the provided context, the exact maximum penalty or upper limit for a fine is not specified. \n\nRecital (150) states that the Regulation \"should indicate infringements and the upper limit and criteria for setting the related administrative fines,\" which are determined by the supervisory authority in each individual case. However, the specific monetary amounts or percentage caps that define this upper limit are missing from the provided passages. \n\nContext source: Recital (150).",
+    "llm": "gemini-3.5-flash",
+    "rank_table": [
+      {
+        "chunk_id": 414,
+        "section": "Article 84 - Penalties",
+        "bi_rank": 1,
+        "ce_rank": 5,
+        "bi_score": 0.6052815318107605,
+        "ce_score": -1.6561198234558105,
+        "shift": -4
+      },
+      {
+        "chunk_id": 410,
+        "section": "Article 83 - General conditions for imposing administrative fines",
+        "bi_rank": 2,
+        "ce_rank": 4,
+        "bi_score": 0.5962436199188232,
+        "ce_score": -1.004084587097168,
+        "shift": -2
+      },
+      {
+        "chunk_id": 184,
+        "section": "Recital (148)",
+        "bi_rank": 3,
+        "ce_rank": 2,
+        "bi_score": 0.5664354562759399,
+        "ce_score": -0.16033750772476196,
+        "shift": 1
+      },
+      {
+        "chunk_id": 186,
+        "section": "Recital (150)",
+        "bi_rank": 4,
+        "ce_rank": 3,
+        "bi_score": 0.5180518627166748,
+        "ce_score": -0.6959750652313232,
+        "shift": 1
+      },
+      {
+        "chunk_id": 185,
+        "section": "Recital (149)",
+        "bi_rank": 5,
+        "ce_rank": 1,
+        "bi_score": 0.5037083625793457,
+        "ce_score": 0.2710602581501007,
+        "shift": 4
+      },
+      {
+        "chunk_id": 189,
+        "section": "Recital (152)",
+        "bi_rank": 6,
+        "ce_rank": 6,
+        "bi_score": 0.49723386764526367,
+        "ce_score": -3.4364662170410156,
+        "shift": 0
+      },
+      {
+        "chunk_id": 408,
+        "section": "Article 83 - General conditions for imposing administrative fines",
+        "bi_rank": 7,
+        "ce_rank": 7,
+        "bi_score": 0.48233193159103394,
+        "ce_score": -4.152525901794434,
+        "shift": 0
+      },
+      {
+        "chunk_id": 413,
+        "section": "Article 83 - General conditions for imposing administrative fines",
+        "bi_rank": 8,
+        "ce_rank": 10,
+        "bi_score": 0.4686161279678345,
+        "ce_score": -8.27022933959961,
+        "shift": -2
+      },
+      {
+        "chunk_id": 412,
+        "section": "Article 83 - General conditions for imposing administrative fines",
+        "bi_rank": 9,
+        "ce_rank": 9,
+        "bi_score": 0.4592024087905884,
+        "ce_score": -6.638881206512451,
+        "shift": 0
+      },
+      {
+        "chunk_id": 411,
+        "section": "Article 83 - General conditions for imposing administrative fines",
+        "bi_rank": 10,
+        "ce_rank": 8,
+        "bi_score": 0.4573242962360382,
+        "ce_score": -4.6816086769104,
+        "shift": 2
+      }
+    ]
+  },
+  "E1": {
+    "query": "Does a company always have to inform affected people about a data breach?",
+    "p1_context": [
+      "Recital (87)",
+      "Article 33 - Notification of a personal data breach to the supervisory authority",
+      "Recital (88)"
+    ],
+    "p2_context": [
+      "Recital (87)",
+      "Recital (85)",
+      "Article 34 - Communication of a personal data breach to the data subject"
+    ],
+    "answer1": "Based on the provided passages, there is not enough information to fully answer whether a company *always* has to inform affected people (data subjects) about a personal data breach. \n\nWhat the context provides:\n* Recital (87) mentions that measures should be implemented to establish immediately whether a breach occurred and to \"inform promptly the supervisory authority and the data subject,\" taking into account the nature, gravity, consequences, and adverse effects of the breach. \n* Article 33 specifies the rules for notifying the *supervisory authority*, stating notification is required \"unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons.\" \n\nWhat is missing: The context does not contain the specific conditions, exceptions, or full requirements (such as Article 34) regarding when a controller is or is not mandated to notify the data subjects themselves.",
+    "answer2": "No, a company does not always have to inform affected people (data subjects) about a personal data breach. \n\nAccording to **Article 34(1)**, communication to the data subject is required when the breach is likely to result in a \"high risk to the rights and freedoms of natural persons.\" \n\nFurthermore, **Article 34(3)** states that communication is not required if any of the following conditions are met:\n* The controller applied appropriate technical and organisational protection measures (such as encryption) to the affected data, rendering it unintelligible to unauthorised persons (Article 34(3)(a)).\n* The controller took subsequent measures ensuring that the high risk is no longer likely to materialise (Article 34(3)(b)).\n* It would involve disproportionate effort (Article 34(3)(c)). *(Note: Article 34(3)(c) is cut off in the passage regarding what happens in such a case).*",
+    "llm": "gemini-3.7-flash",
+    "rank_table": [
+      {
+        "chunk_id": 111,
+        "section": "Recital (87)",
+        "bi_rank": 1,
+        "ce_rank": 1,
+        "bi_score": 0.6465948820114136,
+        "ce_score": 3.9233057498931885,
+        "shift": 0
+      },
+      {
+        "chunk_id": 291,
+        "section": "Article 33 - Notification of a personal data breach to the supervisory authority",
+        "bi_rank": 2,
+        "ce_rank": 5,
+        "bi_score": 0.6335979104042053,
+        "ce_score": 0.5925067067146301,
+        "shift": -3
+      },
+      {
+        "chunk_id": 112,
+        "section": "Recital (88)",
+        "bi_rank": 3,
+        "ce_rank": 6,
+        "bi_score": 0.6317934393882751,
+        "ce_score": 0.524150013923645,
+        "shift": -3
+      },
+      {
+        "chunk_id": 292,
+        "section": "Article 33 - Notification of a personal data breach to the supervisory authority",
+        "bi_rank": 4,
+        "ce_rank": 8,
+        "bi_score": 0.6014288067817688,
+        "ce_score": -0.8151487708091736,
+        "shift": -4
+      },
+      {
+        "chunk_id": 110,
+        "section": "Recital (86)",
+        "bi_rank": 5,
+        "ce_rank": 4,
+        "bi_score": 0.5953426361083984,
+        "ce_score": 1.2310670614242554,
+        "shift": 1
+      },
+      {
+        "chunk_id": 294,
+        "section": "Article 34 - Communication of a personal data breach to the data subject",
+        "bi_rank": 6,
+        "ce_rank": 7,
+        "bi_score": 0.5944994688034058,
+        "ce_score": -0.13537971675395966,
+        "shift": -1
+      },
+      {
+        "chunk_id": 109,
+        "section": "Recital (85)",
+        "bi_rank": 7,
+        "ce_rank": 2,
+        "bi_score": 0.5789554715156555,
+        "ce_score": 3.3397305011749268,
+        "shift": 5
+      },
+      {
+        "chunk_id": 293,
+        "section": "Article 34 - Communication of a personal data breach to the data subject",
+        "bi_rank": 8,
+        "ce_rank": 3,
+        "bi_score": 0.576028048992157,
+        "ce_score": 1.3719446659088135,
+        "shift": 5
+      },
+      {
+        "chunk_id": 75,
+        "section": "Recital (62)",
+        "bi_rank": 9,
+        "ce_rank": 10,
+        "bi_score": 0.46773451566696167,
+        "ce_score": -7.733799934387207,
+        "shift": -1
+      },
+      {
+        "chunk_id": 354,
+        "section": "Article 57 - Tasks",
+        "bi_rank": 10,
+        "ce_rank": 9,
+        "bi_score": 0.465395987033844,
+        "ce_score": -4.994741916656494,
+        "shift": 1
+      }
+    ]
+  },
+  "N11": {
+    "query": "Is no special approval needed to transfer data to a country the Commission considers adequate?",
+    "p1_context": [
+      "Recital (107)",
+      "Recital (102)",
+      "Recital (103)"
+    ],
+    "p2_context": [
+      "Recital (107)",
+      "Recital (103)",
+      "Article 45 - Transfers on the basis of an adequacy decision"
+    ],
+    "answer1": "Yes. According to Recital (103), when the Commission decides that a third country, a territory or specified sector within a third country, or an international organisation offers an adequate level of data protection, transfers of personal data to that third country or international organisation may take place \"without the need to obtain any further authorisation.\"",
+    "answer2": "Yes, no special approval or further authorisation is needed. \n\nAccording to **Article 45(1)**, when the Commission decides that a third country, a territory or specified sector within it, or an international organisation ensures an adequate level of protection, the transfer of personal data \"shall not require any specific authorisation.\" \n\nSimilarly, **Recital (103)** states that in cases where the Commission decides with effect for the entire Union that an adequate level of data protection is offered, transfers of personal data to that third country or international organisation \"may take place without the need to obtain any further authorisation.\"",
+    "llm": "gemini-3.7-flash",
+    "rank_table": [
+      {
+        "chunk_id": 135,
+        "section": "Recital (107)",
+        "bi_rank": 1,
+        "ce_rank": 1,
+        "bi_score": 0.7715060710906982,
+        "ce_score": 5.267874717712402,
+        "shift": 0
+      },
+      {
+        "chunk_id": 129,
+        "section": "Recital (102)",
+        "bi_rank": 2,
+        "ce_rank": 9,
+        "bi_score": 0.7034398317337036,
+        "ce_score": -2.7975454330444336,
+        "shift": -7
+      },
+      {
+        "chunk_id": 130,
+        "section": "Recital (103)",
+        "bi_rank": 3,
+        "ce_rank": 2,
+        "bi_score": 0.7002344727516174,
+        "ce_score": 4.5573015213012695,
+        "shift": 1
+      },
+      {
+        "chunk_id": 144,
+        "section": "Recital (114)",
+        "bi_rank": 4,
+        "ce_rank": 4,
+        "bi_score": 0.6992760896682739,
+        "ce_score": 3.7744224071502686,
+        "shift": 0
+      },
+      {
+        "chunk_id": 341,
+        "section": "Article 49 - Derogations for specific situations",
+        "bi_rank": 5,
+        "ce_rank": 8,
+        "bi_score": 0.6904836893081665,
+        "ce_score": -1.9774471521377563,
+        "shift": -3
+      },
+      {
+        "chunk_id": 338,
+        "section": "Article 48 - Transfers or disclosures not authorised by Union law",
+        "bi_rank": 6,
+        "ce_rank": 5,
+        "bi_score": 0.6819427609443665,
+        "ce_score": 0.4877206087112427,
+        "shift": 1
+      },
+      {
+        "chunk_id": 325,
+        "section": "Article 45 - Transfers on the basis of an adequacy decision",
+        "bi_rank": 7,
+        "ce_rank": 3,
+        "bi_score": 0.673217236995697,
+        "ce_score": 4.224709510803223,
+        "shift": 4
+      },
+      {
+        "chunk_id": 128,
+        "section": "Recital (101)",
+        "bi_rank": 8,
+        "ce_rank": 10,
+        "bi_score": 0.669614315032959,
+        "ce_score": -3.1196656227111816,
+        "shift": -2
+      },
+      {
+        "chunk_id": 324,
+        "section": "Article 44 - General principle for transfers",
+        "bi_rank": 9,
+        "ce_rank": 7,
+        "bi_score": 0.6686278581619263,
+        "ce_score": -1.8082376718521118,
+        "shift": 2
+      },
+      {
+        "chunk_id": 141,
+        "section": "Recital (112)",
+        "bi_rank": 10,
+        "ce_rank": 6,
+        "bi_score": 0.6656292676925659,
+        "ce_score": 0.4270265996456146,
+        "shift": 4
+      }
+    ]
+  },
+  "N13": {
+    "query": "Can the data protection officer be fired for doing their job?",
+    "p1_context": [
+      "Article 38 - Position of the data protection officer",
+      "Article 37 - Designation of the data protection officer",
+      "Recital (97)"
+    ],
+    "p2_context": [
+      "Recital (97)",
+      "Article 38 - Position of the data protection officer",
+      "Article 38 - Position of the data protection officer"
+    ],
+    "answer1": "Based on the provided passages, there is not enough information to answer whether a data protection officer can be fired for doing their job. \n\nThe provided texts cover:\n- Confidentiality, conflicts of interest, and fulfilling other tasks (Article 38).\n- The designation, qualifications, employment/service contract status, and publication of contact details of the data protection officer (Article 37).\n- The requirement that data protection officers be in a position to perform duties independently (Recital 97).\n\nThe passages are missing specific rules or protections regarding dismissal, termination, or penalties relating to the performance of the data protection officer's tasks.",
+    "answer2": "No, the data protection officer cannot be fired for doing their job. \n\nAccording to **Article 38(3)**, the data protection officer \"shall not be dismissed or penalised by the controller or the processor for performing his tasks.\"",
+    "llm": "gemini-3.7-flash",
+    "rank_table": [
+      {
+        "chunk_id": 306,
+        "section": "Article 38 - Position of the data protection officer",
+        "bi_rank": 1,
+        "ce_rank": 2,
+        "bi_score": 0.5839516520500183,
+        "ce_score": 2.1098389625549316,
+        "shift": -1
+      },
+      {
+        "chunk_id": 304,
+        "section": "Article 37 - Designation of the data protection officer",
+        "bi_rank": 2,
+        "ce_rank": 5,
+        "bi_score": 0.5411037802696228,
+        "ce_score": 0.03544297814369202,
+        "shift": -3
+      },
+      {
+        "chunk_id": 124,
+        "section": "Recital (97)",
+        "bi_rank": 3,
+        "ce_rank": 1,
+        "bi_score": 0.5320101380348206,
+        "ce_score": 3.394223213195801,
+        "shift": 2
+      },
+      {
+        "chunk_id": 307,
+        "section": "Article 39 - Tasks of the data protection officer",
+        "bi_rank": 4,
+        "ce_rank": 4,
+        "bi_score": 0.511745035648346,
+        "ce_score": 0.5903233289718628,
+        "shift": 0
+      },
+      {
+        "chunk_id": 305,
+        "section": "Article 38 - Position of the data protection officer",
+        "bi_rank": 5,
+        "ce_rank": 3,
+        "bi_score": 0.508694052696228,
+        "ce_score": 1.6941519975662231,
+        "shift": 2
+      },
+      {
+        "chunk_id": 111,
+        "section": "Recital (87)",
+        "bi_rank": 6,
+        "ce_rank": 7,
+        "bi_score": 0.4911898076534271,
+        "ce_score": -5.801000595092773,
+        "shift": -1
+      },
+      {
+        "chunk_id": 390,
+        "section": "Article 70 - Tasks of the Board",
+        "bi_rank": 7,
+        "ce_rank": 10,
+        "bi_score": 0.45984625816345215,
+        "ce_score": -9.263050079345703,
+        "shift": -3
+      },
+      {
+        "chunk_id": 404,
+        "section": "Article 80 - Representation of data subjects",
+        "bi_rank": 8,
+        "ce_rank": 8,
+        "bi_score": 0.45799070596694946,
+        "ce_score": -7.129579544067383,
+        "shift": 0
+      },
+      {
+        "chunk_id": 294,
+        "section": "Article 34 - Communication of a personal data breach to the data subject",
+        "bi_rank": 9,
+        "ce_rank": 9,
+        "bi_score": 0.45545095205307007,
+        "ce_score": -8.429925918579102,
+        "shift": 0
+      },
+      {
+        "chunk_id": 303,
+        "section": "Article 37 - Designation of the data protection officer",
+        "bi_rank": 10,
+        "ce_rank": 6,
+        "bi_score": 0.4546302855014801,
+        "ce_score": -0.9100209474563599,
+        "shift": 4
+      }
+    ]
+  }
+}

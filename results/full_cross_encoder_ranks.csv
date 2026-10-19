@@ -1,0 +1,11 @@
+qid,query,"gold rank, bi-encoder over all chunks","gold rank, cross-encoder over all chunks"
+K2,Can my job application be rejected purely by a computer program without a human looking at it?,20,2
+E2,Is a company always required to erase my data when I ask?,11,4
+E3,Does the GDPR apply to me keeping my friends' phone numbers on my personal phone?,50,30
+E5,Does every non-EU company targeting EU customers need to appoint a representative in the EU?,109,12
+N2,When can sensitive data not be processed even if the person consents?,17,11
+N4,Can a processor hire a subcontractor without the controller's approval?,14,3
+D2,When is a data protection impact assessment mandatory?,11,13
+N7,What types of personal data processing does the GDPR not cover?,31,23
+N8,When does a company not need to tell me that it collected my data from someone else?,27,21
+N12,Which processing are data protection authorities not allowed to supervise?,132,42

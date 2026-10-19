@@ -1,0 +1,58 @@
+{
+ "abf61bb6b3290cbdcb20d3fe2591dbcdd6309957e918a108dd2a9797cb0591ef": {
+  "model": "gemini-3.7-flash",
+  "answer": "A controller must notify the supervisory authority of a personal data breach without undue delay and, where feasible, not later than **72 hours** after having become aware of it (Article 33(1), Recital (85)). \n\nThis notification is required unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons (Article 33(1), Recital (85)). If the notification cannot be achieved or made within 72 hours, it must be accompanied by the reasons for the delay (Article 33(1), Recital (85))."
+ },
+ "8e454f41adf2753f3aa05bb6f4c344d486db0193efb77be7f20f6ae52a82c647": {
+  "model": "gemini-3.7-flash",
+  "answer": "Based on **Article 33(1)** and **Recital (85)**, the controller must notify the competent supervisory authority of a personal data breach without undue delay and, where feasible, not later than **72 hours** after having become aware of it. \n\nThis notification is not required if the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons. Furthermore, if the notification is not made within 72 hours, it must be accompanied by reasons for the delay (**Article 33(1)**, **Recital (85)**)."
+ },
+ "fe9009296dbc45f0f4304338a2c9d41ea8927e030e01ba8cc9ab801bba662e97": {
+  "model": "gemini-3.8-flash",
+  "answer": "Based on the provided context, there is not enough information to fully answer whether you can make a company delete *everything* it knows about you. \n\nThe context does reference a \"right to be forgotten\" and a \"right to erasure,\" noting that a controller who has made personal data public must take reasonable steps to inform other controllers processing that data to erase any links to, or copies or replications of it following a data subject's request (**Recital (66)**). However, the passages are missing the specific conditions, grounds, exceptions, or overall scope of the right to erasure (such as Article 17) to determine if it applies to \"everything\" a company holds. \n\nAdditionally, the principles of data protection do not apply to anonymous information where the person is not or no longer identifiable (**Recital (26)**)."
+ },
+ "fba31f347422e4ac4d43ec3f8d861386e50a10d3eb43903531a6a6948465a17d": {
+  "model": "gemini-3.8-flash",
+  "answer": "Under the provided passages, you have the \"right to be forgotten\" (right to erasure), but you cannot make a company delete everything about you unconditionally. According to Article 17(1) and Recital (65), erasure must occur without undue delay only where specific grounds apply:\n- The data is no longer necessary for its original collection/processing purposes [Article 17(1)(a), Recital (65)].\n- You withdraw consent and no other legal ground exists [Article 17(1)(b), Recital (65)].\n- You object to processing and no overriding legitimate grounds exist, or you object under Article 21(2) [Article 17(1)(c), Recital (65)].\n- The data was unlawfully processed [Article 17(1)(d), Recital (65)].\n- Erasure is required by Union or Member State law [Article 17(1)(e)].\n- Data was collected regarding information society services under Article 8(1) [Article 17(1)(f)].\n\nRecital (65) notes further retention can be lawful, though the text cuts off the specific exceptions."
+ },
+ "82049c4a2486de3f1243b7a37d4cf1d17f9ede127d19192b12b01ed1d9b75d79": {
+  "model": "gemini-3.8-flash",
+  "answer": "Based on the provided passages, the maximum administrative fine an undertaking (company) can receive depends on the specific violation:\n\n1. For infringements under Article 83(4), the fine is up to **10 000 000 EUR**, or up to **2% of the total worldwide annual turnover** of the preceding financial year, whichever is higher (Article 83(4)).\n2. For infringements under Article 83(5), the fine is up to **20 000 000 EUR**, or up to **4% of the total worldwide annual turnover** of the preceding financial year, whichever is higher (Article 83(5)). \n\nIf multiple provisions are infringed for the same or linked operations, the total fine cannot exceed the amount specified for the gravest infringement (Article 83(3)). \n\n*Note:* Passage 2 cuts off the specific list of provisions subject to the 4% / 20 000 000 EUR threshold under Article 83(5)."
+ },
+ "a5d5e6393875c2bb1a24bb08e44d9d22523910199336e5a25fbe974f7d8fa69c": {
+  "model": "gemini-3.8-flash",
+  "answer": "Based on the provided context, the exact maximum penalty (or specific numerical upper limit) that a company can receive is not stated. \n\nAccording to Recital (150), the Regulation should indicate the infringements and the \"upper limit and criteria for setting the related administrative fines,\" which are determined by the competent supervisory authority in each individual case. Recital (150) also notes that when fines are imposed on an undertaking, it should be understood in accordance with Articles 101 and 102 TFEU. Additionally, Recital (149) mentions that Member States may lay down rules on criminal penalties, which may allow for the deprivation of profits obtained through infringements. \n\nHowever, the specific figures, percentages, or maximum amounts for these penalties are missing from the provided passages."
+ },
+ "e0ce37fe1ddab218d503cc7dc7cd17148b26c446392ebf84b92514b7c844c3d4": {
+  "model": "gemini-3.7-flash",
+  "answer": "Based on the provided passages, there is not enough information to fully answer whether a company *always* has to inform affected people (data subjects) about a personal data breach. \n\nWhat the context provides:\n* Recital (87) mentions that measures should be implemented to establish immediately whether a breach occurred and to \"inform promptly the supervisory authority and the data subject,\" taking into account the nature, gravity, consequences, and adverse effects of the breach. \n* Article 33 specifies the rules for notifying the *supervisory authority*, stating notification is required \"unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons.\" \n\nWhat is missing: The context does not contain the specific conditions, exceptions, or full requirements (such as Article 34) regarding when a controller is or is not mandated to notify the data subjects themselves."
+ },
+ "ec27aaf94f11fab8aa257302bca5674dbdf8e437b2febd2481abcaa61ace2a64": {
+  "model": "gemini-3.7-flash",
+  "answer": "No, a company does not always have to inform affected people (data subjects) about a personal data breach. \n\nAccording to **Article 34(1)**, communication to the data subject is required when the breach is likely to result in a \"high risk to the rights and freedoms of natural persons.\" \n\nFurthermore, **Article 34(3)** states that communication is not required if any of the following conditions are met:\n* The controller applied appropriate technical and organisational protection measures (such as encryption) to the affected data, rendering it unintelligible to unauthorised persons (Article 34(3)(a)).\n* The controller took subsequent measures ensuring that the high risk is no longer likely to materialise (Article 34(3)(b)).\n* It would involve disproportionate effort (Article 34(3)(c)). *(Note: Article 34(3)(c) is cut off in the passage regarding what happens in such a case).*"
+ },
+ "7b331e560d1eeb1cd10aad5cdb889065eb63313de88678361e4f2f0b5fa4be4b": {
+  "model": "gemini-3.7-flash",
+  "answer": "Yes. According to Recital (103), when the Commission decides that a third country, a territory or specified sector within a third country, or an international organisation offers an adequate level of data protection, transfers of personal data to that third country or international organisation may take place \"without the need to obtain any further authorisation.\""
+ },
+ "4e081d0e1df802cda8af24198a98a44dc0dce6afdc0aa213cd6c835a2f861a53": {
+  "model": "gemini-3.7-flash",
+  "answer": "Yes, no special approval or further authorisation is needed. \n\nAccording to **Article 45(1)**, when the Commission decides that a third country, a territory or specified sector within it, or an international organisation ensures an adequate level of protection, the transfer of personal data \"shall not require any specific authorisation.\" \n\nSimilarly, **Recital (103)** states that in cases where the Commission decides with effect for the entire Union that an adequate level of data protection is offered, transfers of personal data to that third country or international organisation \"may take place without the need to obtain any further authorisation.\""
+ },
+ "00245117e4b9447fd6bcbe4185a4bdfc8004f79fb35c16b2346ec805510ba7a4": {
+  "model": "gemini-3.7-flash",
+  "answer": "Based on the provided passages, there is not enough information to answer whether a data protection officer can be fired for doing their job. \n\nThe provided texts cover:\n- Confidentiality, conflicts of interest, and fulfilling other tasks (Article 38).\n- The designation, qualifications, employment/service contract status, and publication of contact details of the data protection officer (Article 37).\n- The requirement that data protection officers be in a position to perform duties independently (Recital 97).\n\nThe passages are missing specific rules or protections regarding dismissal, termination, or penalties relating to the performance of the data protection officer's tasks."
+ },
+ "43cb6ad30d71310a7ea967f1761605655faf6fe8acf95c52a2d8d8c7846e6a8b": {
+  "model": "gemini-3.7-flash",
+  "answer": "No, the data protection officer cannot be fired for doing their job. \n\nAccording to **Article 38(3)**, the data protection officer \"shall not be dismissed or penalised by the controller or the processor for performing his tasks.\""
+ },
+ "a208da2fef16683570bbf7558f9ff6fccfb705c04fda323e2dae2c05a3eafc7a": {
+  "model": "gemini-3.8-flash",
+  "answer": "According to Recital (71), you generally have the right not to be subject to a decision based solely on automated processing without any human intervention\u2014specifically including \"e-recruiting practices\"\u2014if it evaluates personal aspects and produces legal effects or similarly significantly affects you. \n\nHowever, Recital (71) states that such purely automated decision-making is allowed if it is expressly authorised by Union or Member State law to which the controller is subject (or, as the passage notes, \"necessary...\", though the context cuts off and does not provide the remaining exceptions)."
+ },
+ "7c74f8d03330f575afb07c06ca9e535a86a7d2d843eed09381c0fbbdabc2b654": {
+  "model": "gemini-3.8-flash",
+  "answer": "According to Recital (71), you generally have the right not to be subject to a decision based solely on automated processing without human intervention\u2014specifically including \"e-recruiting practices\"\u2014if it produces legal effects or similarly significantly affects you. \n\nHowever, Recital (71) states that decision-making based on such automated processing is allowed where expressly authorised by Union or Member State law to which the controller is subject, or where \"necessary\" (the passage cuts off before detailing all exceptions). \n\nBecause Passage 1 cuts off mid-sentence after \"or necessary\", the context does not contain the complete list of exceptions permitting purely automated rejections."
+ }
+}

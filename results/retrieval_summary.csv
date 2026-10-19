@@ -1,0 +1,4 @@
+,Pipeline 1 (bi-encoder),Pipeline 2 (cross-encoder)
+Hit@1,0.241,0.31
+Hit@3,0.483,0.586
+MRR@10,0.375,0.435
